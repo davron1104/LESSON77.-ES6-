@@ -200,3 +200,4 @@ console.log(div.calcArea());
 // console.log(square.calcArea());
 // console.log(long.calcArea());
 // some changes need check
+// kklklklklklkklkl
