@@ -199,3 +199,4 @@ console.log(div.calcArea());
 // const long = new Rectangle(20, 100);
 // console.log(square.calcArea());
 // console.log(long.calcArea());
+// some changes need check
